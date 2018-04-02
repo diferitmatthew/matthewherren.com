@@ -431,36 +431,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/gallery\/fulls\/01.jpg": {
-		"ft": 16384,
-		"iS": 31216,
-		"oA": 0,
-		"oAP": "\/images\/gallery\/fulls\/01.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/gallery\/fulls\/02.jpg": {
-		"ft": 16384,
-		"iS": 22129,
-		"oA": 0,
-		"oAP": "\/images\/gallery\/fulls\/02.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/gallery\/fulls\/03.jpg": {
-		"ft": 16384,
-		"iS": 24147,
-		"oA": 0,
-		"oAP": "\/images\/gallery\/fulls\/03.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/gallery\/fulls\/04.jpg": {
 		"ft": 16384,
 		"iS": 27427,
@@ -523,7 +493,7 @@
 		},
 	"\/images\/gallery\/thumbs\/01.jpg": {
 		"ft": 16384,
-		"iS": 13676,
+		"iS": 233997,
 		"oA": 0,
 		"oAP": "\/images\/gallery\/thumbs\/01.jpg",
 		"oF": 0,
@@ -533,7 +503,7 @@
 		},
 	"\/images\/gallery\/thumbs\/02.jpg": {
 		"ft": 16384,
-		"iS": 5681,
+		"iS": 206510,
 		"oA": 0,
 		"oAP": "\/images\/gallery\/thumbs\/02.jpg",
 		"oF": 0,
@@ -543,7 +513,7 @@
 		},
 	"\/images\/gallery\/thumbs\/03.jpg": {
 		"ft": 16384,
-		"iS": 5982,
+		"iS": 108942,
 		"oA": 0,
 		"oAP": "\/images\/gallery\/thumbs\/03.jpg",
 		"oF": 0,
@@ -616,6 +586,16 @@
 		"iS": 174353,
 		"oA": 0,
 		"oAP": "\/images\/matthew.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/matthew2.jpg": {
+		"ft": 16384,
+		"iS": 691976,
+		"oA": 0,
+		"oAP": "\/images\/matthew2.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -712,7 +692,7 @@
 "projectAttributes": {
 	"creationDate": 544340845,
 	"displayValue": "matthewherren.com",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-facepalm"
 	},
 "projectSettings": {
